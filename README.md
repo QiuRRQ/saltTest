@@ -23,4 +23,4 @@ Streaming music from iTunes
 
 ## Installing
 
-Download and install APK from [here](https://github.com/QiuRRQ/saltTest/my_app).
+Download and install APK from [here](https://github.com/QiuRRQ/saltTest/tree/master/my_app).
